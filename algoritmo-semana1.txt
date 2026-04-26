@@ -1,1 +1,6 @@
-
+1:Prende el celular
+2: Abre tu navegador de confianza
+3: busca la información que necesites en páginas de confianza como la ONU
+5: corrobora que la noticia o la información sean correctas
+6: cliquea en el botón de compartir
+7: selección la app o red social en la cual buscarás compartir el tema
