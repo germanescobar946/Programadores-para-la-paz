@@ -1,1 +1,11 @@
+Ruta http://localhost:3000 (GET):
+Al acceder a la raíz del servidor, este responde con el mensaje "Servidor activo". Esto confirma que la aplicación Express está corriendo correctamente y escuchando en el puerto 3000.
 
+Ruta http://localhost:3000/saludo (GET):
+Al acceder a esta ruta, el servidor responde con el texto "Hola comunidad". Esta prueba verifica que las rutas básicas están configuradas y responden adecuadamente al navegador.
+
+Ruta http://localhost:3000/mensaje/juan (GET):
+Esta ruta utiliza un parámetro dinámico (:nombre). Al ingresar con "juan" en la URL, el servidor captura este valor y responde con "Hola juan", demostrando que puede procesar datos variables enviados desde la URL.
+
+Ruta POST /reporte (POST):
+Al enviar un objeto JSON con la estructura {"mensaje": "texto aquí"} mediante una herramienta como Postman o Thunder Client, el servidor recibe los datos en el cuerpo de la petición y devuelve un JSON de confirmación: {"estado": "Reporte recibido", "mensaje": "texto aquí"}. Esto confirma que el servidor puede recibir y procesar información enviada por el usuario.
