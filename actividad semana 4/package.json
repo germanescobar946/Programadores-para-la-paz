@@ -1,1 +1,12 @@
-
+{
+  "name": "semana4",
+  "version": "1.0.0",
+  "description": "Mi proyecto de la semana 4",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
