@@ -1,1 +1,1 @@
-
+La capacidad de las comunidades e iniciativas ciudadanas para construir sus propias herramientas tecnológicas utilizando tecnologías abiertas como Node.js es un factor clave para la democratización del conocimiento y el empoderamiento social. Al ser Node.js un entorno de código abierto, permite que cualquier grupo, independientemente de sus recursos económicos, pueda desarrollar soluciones digitales personalizadas y escalables para resolver problemas locales específicos.
