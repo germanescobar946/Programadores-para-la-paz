@@ -1,1 +1,1 @@
-
+La ruta POST /reporte permite al servidor recibir datos enviados por un cliente (como una aplicación móvil o un formulario web). A diferencia de una ruta GET, que solo consulta información, esta ruta está diseñada para procesar el envío de información.
