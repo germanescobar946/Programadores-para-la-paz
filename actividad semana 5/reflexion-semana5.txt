@@ -1,1 +1,1 @@
-
+Las APIs representan una herramienta transformadora para la organización comunitaria, ya que actúan como un puente estandarizado entre las necesidades de los ciudadanos y la capacidad de respuesta de las entidades. Al implementar sistemas basados en APIs, una comunidad puede centralizar reportes, alertas y datos en tiempo real, eliminando el desorden de canales informales.
