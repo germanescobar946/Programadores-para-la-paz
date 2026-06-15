@@ -1,1 +1,10 @@
+Al enviar una petición POST a /registro con el JSON:
+{ "nombre": "Maria", "mensaje": "Hola comunidad" }
 
+El servidor responde con:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+Esto demuestra que Express ha procesado correctamente el cuerpo de la petición.
