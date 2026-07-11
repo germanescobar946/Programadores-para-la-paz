@@ -1,0 +1,9 @@
+Sistema operativo: Es la capa base que gestiona los recursos del hardware del computador y permite la ejecución de programas. Proporciona la estabilidad necesaria para que el servidor no se detenga.
+
+Node.js: Es el entorno de ejecución que permite que el lenguaje JavaScript funcione en el servidor. Su función es procesar las peticiones de los usuarios de manera eficiente y asíncrona.
+
+Aplicación server.js: Es el archivo principal de la lógica de nuestra API. Define las rutas, cómo debe responder el servidor y qué datos debe procesar cuando recibe una solicitud.
+
+Puerto: Es el canal lógico de comunicación identificado por un número (en este caso, 3000). Permite que el tráfico de red llegue específicamente a nuestra aplicación sin mezclarse con otros servicios.
+
+Logs: Son archivos o registros que almacenan el historial de eventos, errores y actividad del servidor. Son fundamentales para el mantenimiento, ya que ayudan a diagnosticar fallos y monitorear la salud del sistema.
