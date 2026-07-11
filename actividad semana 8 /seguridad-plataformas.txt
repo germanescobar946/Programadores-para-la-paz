@@ -1,0 +1,9 @@
+No exponer datos personales ni información sensible de los usuarios.
+
+Proteger las credenciales de acceso mediante métodos robustos de cifrado y autenticación.
+
+Utilizar conexiones seguras (HTTPS/TLS) para cifrar la comunicación entre cliente y servidor.
+
+Registrar todos los accesos e intentos de inicio de sesión para detectar actividades sospechosas (logging).
+
+Limitar el acceso a la información sensible basándose en el principio de menor privilegio, dando acceso solo a lo estrictamente necesario.
