@@ -1,0 +1,15 @@
+Evento que activa el flujo: El registro de un nuevo reporte en la base de datos o API.
+
+Mensaje que se enviaría a Telegram: "¡Atención! Se ha registrado un nuevo reporte en la plataforma. Por favor, ingrese al sistema para su revisión y seguimiento."
+
+Información que no debe enviarse (Seguridad):
+
+Nombres completos de los ciudadanos.
+
+Números de documentos de identidad.
+
+Direcciones exactas de viviendas o datos de contacto privados.
+
+Teléfonos personales.
+
+Claves de acceso, tokens o cualquier información sensible que comprometa la privacidad del usuario.
