@@ -1,1 +1,1 @@
-
+Al realizar una petición GET a la ruta /reportes después de haber enviado datos mediante POST, el servidor responde con un array JSON que contiene los objetos de los reportes almacenados en la memoria. Si se enviaron los datos correctamente, el array muestra los reportes con su respectivo ID, tipo y descripción. Si el servidor se reinicia, el array vuelve a estar vacío, ya que los datos se almacenan únicamente en la memoria RAM mientras el proceso de Node.js está activo.
