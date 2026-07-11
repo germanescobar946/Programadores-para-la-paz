@@ -1,0 +1,17 @@
+¿Qué 2 tareas del backlog harías primero?
+
+Registrar incidencia (la base del sistema).
+
+Notificación en Telegram (esencial para la respuesta inmediata).
+
+¿Por qué son las más importantes?
+Son las más importantes porque constituyen el flujo de valor mínimo viable: el ciudadano reporta y el coordinador se entera. Sin estas dos funciones, el sistema de veeduría no cumple su propósito operativo básico.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+Una tarea se considera terminada cuando cumple con los siguientes criterios:
+
+Funciona correctamente según lo planeado en el entorno de pruebas.
+
+Fue probada para asegurar que no presenta errores críticos.
+
+El código correspondiente fue documentado y quedó registrado en el repositorio de Git.
